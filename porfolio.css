@@ -1,0 +1,35 @@
+/*Fonts on Windows:
+https://en.wikipedia.org/wiki/List_of_typefaces_included_with_Microsoft_Windows
+Fonts on Macs:
+https://en.wikipedia.org/wiki/List_of_typefaces_included_with_macOSfon
+General Font Information:
+http://www.cssfontstack.com/*/
+
+/* Text Font and Size*/
+
+li{
+  background-color: green ;
+  color: red;
+  text-decoration: line-through;
+  border: 5px solid orange;
+  
+}
+
+
+h3{
+ color: blue;
+  background-color: black;
+  border: 4px double red;
+  text
+}
+
+#img{
+ 
+}
+
+    
+/*If you want to use your own downloaded custom fonts:*/
+
+/*@font-face{
+
+}*/
